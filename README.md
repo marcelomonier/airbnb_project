@@ -4,7 +4,9 @@
 <!--   <img src="" width="350" alt="accessibility text"> -->
 </p>
 
-**Análise dos Dados do Airbnb - Toronto, Ontario, Canada**
+---
+
+***Análise dos Dados do Airbnb - Toronto, Ontario, Canada***
 
 
 O Airbnb já é considerado como sendo a maior empresa hoteleira da atualidade. Ah, o detalhe é que ele não possui nenhum hotel!
